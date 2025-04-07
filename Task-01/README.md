@@ -14,12 +14,6 @@ Clean and prepare a raw dataset containing missing values, duplicates, and incon
 
 ## 📂 Dataset
 Dataset used: ** Netflix Movies and TV Shows **
-> Example options:
-> - Customer Personality Analysis  
-> - Medical Appointment No Shows  
-> - Mall Customer Segmentation Data  
-> - Netflix Movies and TV Shows  
-> - Sales Data  
 
 ---
 
