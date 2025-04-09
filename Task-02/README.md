@@ -48,4 +48,4 @@ To explore the dataset and extract meaningful business insights through well-des
 ---
 
 ## 🖼 Screenshots
-All key visuals have been exported as screenshots and added to the ![screenshots](https://github.com/kakarot7072/Data_Analyst_Intern/blob/main/Task-02/main.pdf) folder.
+All key visuals have been exported as screenshots and added to the ![screenshots](https://github.com/kakarot7072/Data_Analyst_Intern/blob/main/Task-02/screenshort.png) folder.
