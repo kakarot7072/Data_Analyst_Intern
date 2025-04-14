@@ -40,4 +40,4 @@ Gain insight from the Titanic dataset through:
 2. Ensure `train.csv` is in your directory
 3. Run the Jupyter Notebook:  
    ```bash
-   jupyter notebook Task-5.ipynb
+   jupyter notebook Task-05.ipynb
