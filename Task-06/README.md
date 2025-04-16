@@ -17,6 +17,9 @@ Aggregate functions: SUM, COUNT
 Sorting with ORDER BY
 
 ![](https://github.com/kakarot7072/Data_Analyst_Intern/blob/main/Task-06/screenshots/ss1.png)
+---
 ![](https://github.com/kakarot7072/Data_Analyst_Intern/blob/main/Task-06/screenshots/ss2.png)
+---
 ![](https://github.com/kakarot7072/Data_Analyst_Intern/blob/main/Task-06/screenshots/ss3.png)
+---
 ![](https://github.com/kakarot7072/Data_Analyst_Intern/blob/main/Task-06/screenshots/ss4.png)
