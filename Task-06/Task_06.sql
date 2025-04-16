@@ -8,6 +8,8 @@ CREATE TABLE online_sales (
     amount DECIMAL(10, 2),
     product_id INT
 );
+
+
 INSERT INTO online_sales (order_id, order_date, amount, product_id) VALUES
 (1, '2024-01-05', 200.00, 101),
 (2, '2024-01-20', 150.00, 102),
