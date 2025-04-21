@@ -34,7 +34,8 @@ To create a clean and interactive dashboard that shows:
 2. *Bar Chart* – Sales by Region
 3. *Donut Chart* – Sales by Category
 4. *Stacked Column Chart* – Profit by Category
-
+---
+![](https://github.com/kakarot7072/Data_Analyst_Intern/blob/main/Task-08/ss.png)
 ---
 
 ## 🎛 Interactive Features
